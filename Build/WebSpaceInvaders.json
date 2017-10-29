@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebSpaceInvaders.data.unityweb",
+"asmCodeUrl": "WebSpaceInvaders.asm.code.unityweb",
+"asmMemoryUrl": "WebSpaceInvaders.asm.memory.unityweb",
+"asmFrameworkUrl": "WebSpaceInvaders.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
